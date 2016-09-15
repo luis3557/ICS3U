@@ -39,7 +39,7 @@ public class Aboutme {
 		
 		System.out.format("%-10s%8s%8s","4","SNC2D1-03","\tSNC2D1-03\n");
 		System.out.format("%-10s%8s%8s","13:48", "", "\n");
-		System.out.format("%-10s%8s%8s","15:5", "", "\n\n");
+		System.out.format("%-10s%8s%8s","", "", "\n\n");
 	
 	}
 
