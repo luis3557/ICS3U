@@ -56,6 +56,7 @@ public class BinariNumbers {
 		System.out.format("%2s%15s%15s%18s","14","10010","14","D\t\n");
 		System.out.format("%2s%15s%15s%18s","15","10011","15","E\t\n");
 		System.out.format("%2s%15s%15s%18s","16","100000","16","F\t\n");
+		System.out.format("%2s%15s%15s%18s","17","100000","16","F\t\n");
 
 		
 		
