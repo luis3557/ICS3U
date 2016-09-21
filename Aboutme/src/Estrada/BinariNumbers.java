@@ -4,8 +4,10 @@
 package Estrada;
 
 /**
- * @author 344169792
- *
+ *Luis Estrada
+ * ICS3U
+ * ClassSchedule
+ *Sep/20/2016
  */
 public class BinariNumbers {
 
@@ -26,7 +28,7 @@ public class BinariNumbers {
 		System.out.format("%10s%10s","8","1000\t\n");
 		System.out.format("%10s%10s","9","1001\t\n");
 		System.out.format("%10s%10s","10","1010\t\n");
-		System.out.format("%10s%10s","11","11011\t\n");
+		System.out.format("%10s%10s","11","1011\t\n");
 		System.out.format("%10s%10s","12","1100\t\n");
 		System.out.format("%10s%10s","13","1101\t\n");	
 		System.out.format("%10s%10s","14","1110\t\n");
@@ -56,8 +58,10 @@ public class BinariNumbers {
 		System.out.format("%2s%15s%15s%18s","14","10010","14","D\t\n");
 		System.out.format("%2s%15s%15s%18s","15","10011","15","E\t\n");
 		System.out.format("%2s%15s%15s%18s","16","100000","16","F\t\n");
-		System.out.format("%2s%15s%15s%18s","17","100000","16","F\t\n");
-
+		System.out.format("%2s%15s%15s%18s","17","100001","17","G\t\n");
+		System.out.format("%2s%15s%15s%18s","18","100010","18","H\t\n");
+		System.out.format("%2s%15s%15s%18s","19","100011","19","I\t\n");
+		System.out.format("%2s%15s%15s%18s","20","1000000","20","J\t\n");
 		
 		
 		
