@@ -4,8 +4,10 @@
 package Estrada;
 
 /**
- * @author 344169792
- *
+ * Luis Estrada
+ * BingoCard.java
+ * ICS3U
+ *Sep/14/2016
  */
 public class BingoCard {
 
