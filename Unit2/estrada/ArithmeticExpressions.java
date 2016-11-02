@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  *Luis Estrada
  * ICS3U
- * ClassSchedule
+ * ClassSchedule.java
  *Sep/20/2016
  */
 public class ArithmeticExpressions {

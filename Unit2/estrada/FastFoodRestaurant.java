@@ -8,6 +8,7 @@ import java.util.Scanner;
  *Luis Estrada	
  *Date 06/10/2016
  *ICS3C
+ *FastFoodRestaurant.java
  *
  */
 public class FastFoodRestaurant {

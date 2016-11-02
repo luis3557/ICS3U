@@ -7,7 +7,6 @@ package Estrada;
  *Luis Estrada
  * ICS3U
  * BinariNumbers.java
-
  *Sep/20/2016
  */
 public class BinariNumbers {
