@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 /**
  *Luis Estrada
- *PrimerFactor.java
- *November 23
- *	 *
+ *RemoveString.java
+ *November 29
+ *	*
  */
 public class RemoveString {
 
