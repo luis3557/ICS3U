@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class GroupAssingment {
 	/**
 	 *Luis Estrada
-	 *Random1.java
-	 *November 15
-	 * It tell the user if they like that name or not
+	 *GroupAssingment.java
+	 *December 1
+	 * it tell your group number
 	 */
 
 	public static void main(String[] args) {
