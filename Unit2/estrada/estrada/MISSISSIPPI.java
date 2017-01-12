@@ -1,7 +1,12 @@
 package estrada;
 
 public class MISSISSIPPI {
-
+	/**
+	 *Luis Estrada
+	 *MISSISSIPPI.java
+	 *12/01/2017
+	 * It tell the user if they like that name or not
+	 */
 	public MISSISSIPPI() {
 		// TODO Auto-generated constructor stub
 	}
@@ -21,6 +26,9 @@ public class MISSISSIPPI {
 		drawI();
 	}
 
+	/**
+	 * Draw the letter M
+	 */
 	public static void drawM(){
 		System.out.println("M        M");
 		System.out.println("M M      M");
@@ -31,6 +39,10 @@ public class MISSISSIPPI {
 		System.out.println("M        M");
 
 	}
+	
+	/**
+	 * Draw the letter I 
+	 */
 	public static void drawI(){
 		System.out.println("   IIIII ");
 		System.out.println("     I   ");
@@ -41,7 +53,9 @@ public class MISSISSIPPI {
 		System.out.println("   IIIII   ");
 	}
 
-
+ /**
+  * Draw the letter S
+  */
 	public static void drawS () {
 
 		System.out.println("  SSSSSS   ");
@@ -59,6 +73,9 @@ public class MISSISSIPPI {
 	}
 
 
+	/**
+	 * Draw the letter P
+	 */
 	public static void drawP(){
 		System.out.println(" PPPPPPPPPP  ");
 		System.out.println("P          P ");
