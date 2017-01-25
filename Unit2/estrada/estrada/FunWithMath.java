@@ -1,7 +1,5 @@
 package estrada;
-
 import java.util.Scanner;
-
 public class FunWithMath {
 	/**
 	 *Luis Estrada
@@ -9,14 +7,9 @@ public class FunWithMath {
 	 *17/01/2017
 	 * It let the user to add, subtract,multiply and divide
 	 */
-
-
 	public static void main(String[] args) {
-
-
+        
 		Scanner scan = new Scanner(System.in);
-
-
 		int num1;
 		int num2;
 		String add;
@@ -63,21 +56,4 @@ public class FunWithMath {
 		System.out.println(total);
 
 	}
-
-
-
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
